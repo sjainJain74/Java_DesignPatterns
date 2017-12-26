@@ -1,4 +1,4 @@
-package com.shashank.structuralPatternadapterDesignPattern;
+package com.shashank.structural.AdapterDesignPattern;
 
 public interface Duck {
 

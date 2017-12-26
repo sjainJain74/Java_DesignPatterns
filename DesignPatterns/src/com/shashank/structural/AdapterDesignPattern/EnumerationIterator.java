@@ -1,4 +1,4 @@
-package com.shashank.structuralPatternadapterDesignPattern;
+package com.shashank.structural.AdapterDesignPattern;
 
 import java.util.Enumeration;
 import java.util.Iterator;
